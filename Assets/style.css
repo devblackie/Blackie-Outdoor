@@ -40,3 +40,12 @@ header .navigation a{
     text-transform: uppercase;
     text-decoration: none;
 }
+header .navigation a:hover {
+    color: orangered;
+    font-size: 2rem;
+}
+header .navigation .let-ins{
+    color: orangered;
+    font-size: 2rem;
+    padding: 20px;
+}
