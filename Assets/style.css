@@ -218,3 +218,28 @@ header .navigation .let-ins{
 .footer .box-container .box a:hover{
 	color: #ff8c00;
 }
+#upcoming {
+    display:flex;
+    flex-wrap: wrap;
+}
+#upcoming .box{
+    overflow:hidden;
+    box-shadow: 0 1rem 2rem #001219;
+    border: .3rem solid #f1f2f3;
+    border-radius: .5rem;
+    flex: 1 1 30rem;
+    height: 30rem;
+    /* position: relative; */
+    background: rgba(236, 228, 228, 0.7);
+}
+#upcoming .box img {
+    height: 95%;
+    width: 100%;
+    object-fit: cover;
+}
+#upcoming .box .content *{
+    color: yellowgreen;
+    background-color: rgba(0, 0, 0,.7);
+    padding-left: 20px;
+}
+    

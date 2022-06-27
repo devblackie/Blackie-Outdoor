@@ -1,0 +1,46 @@
+
+{
+  "event":[
+      {
+          "id":"007",
+          "event_type":"hike",
+          "location":"Mt Longonot",
+          "amount":"1500 ksh",
+          "image":"Assets/media/site-images/longonot.jpeg"
+
+      },
+      {
+          "id":"005",
+          "event_type":"hike",
+          "location":"Ngong Hills",
+          "amount":"800 ksh",
+          "image":"Assets/media/site-images/ngonghills.jpeg"
+
+      },
+      {
+          "id":"006",
+          "event_type":"hike",
+          "location":"Williamson Hill",
+          "amount":"1200 ksh",
+          "image":"Assets/media/site-images/williamson.jpeg"
+
+      },
+      {
+          "id":"011",
+          "event_type":"teambuilding",
+          "location":"Paradise Lost",
+          "amount":"2100 ksh",
+          "image":"Assets/media/site-images/paradiselost.jpeg"
+
+      },
+      {
+          "id":"010",
+          "event_type":"team building",
+          "location":"Kereita field",
+          "amount":"1700 ksh",
+          "image":"Assets/media/site-images/kereita.jpeg"
+
+      }
+
+  ]
+}
