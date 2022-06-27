@@ -72,7 +72,6 @@ header .navigation .let-ins{
     flex-flow: column;
     position: relative;
     z-index: 0;
-    background: Assets/media/Site  Particlars  Videos/WhatsApp Video 2022-06-26 at 11.52.15 PM.mp4;
 }
 .home .content{
     text-align: center;
@@ -96,7 +95,7 @@ header .navigation .let-ins{
 }
 .home .video-container video{
     position: absolute;
-    top: 0; left: 0; right:;
+    top: 0; left: 0; 
     z-index: -1;
     height: 100%;
     width: 100%;

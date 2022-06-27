@@ -1,3 +1,8 @@
+
 function logInPrompt(){
-    document.getElementById('login')
+    alert("Hello, click here to login")
 }
+
+
+const login = document.getElementById("login")
+login.addEventListener("mouseover",logInPrompt)
