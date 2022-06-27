@@ -184,3 +184,37 @@ header .navigation .let-ins{
 .book .row form .form-input button:hover{
 	background: #f1f2f3;
 }
+.footer{
+	background: #001219;
+	border-top-right-radius: 40%;
+}
+.footer .box-container{
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1.5rem;
+}
+.footer .box-container .box{
+	padding: 1rem 0;
+	flex: 1 1 25rem;
+}
+.footer .box-container .box h3{
+	font-size:0 2rem;
+	color: #f1f2f3;
+}
+.footer .box-container .box h4{
+	padding: .7rem 2rem;
+	color: #f1f2f3;
+}
+.footer .box-container .box p{
+	padding: .7rem 2rem;
+	color: #f1f2f3;
+}
+.footer .box-container .box a{
+	display: block; 
+	padding: .7rem 2rem;
+	color: #f1f2f3;
+	text-decoration: none;	
+}
+.footer .box-container .box a:hover{
+	color: #ff8c00;
+}
