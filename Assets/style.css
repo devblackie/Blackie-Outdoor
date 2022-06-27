@@ -6,7 +6,12 @@
     text-transform: capitalize;
     outline: none;
     border: none;
+
     
+}
+body{
+    background-image: url(./media/site-images/waterfall\ cover.jpeg);
+    background-size: cover;
 }
 html {
     font-size: 72.8%;
@@ -24,6 +29,7 @@ header {
     justify-content: space-between;
     padding: 2rem 3%;
     border-bottom-left-radius: 70%;
+    
 }
 /* whole header section  */
 header .navigation{
@@ -35,7 +41,8 @@ header .navigation{
 header .navigation a{
     color: white;
     padding: 2rem;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
+    font-weight: 600;
     margin: 0.1rem;
     text-transform: uppercase;
     text-decoration: none;
@@ -57,11 +64,11 @@ header .navigation .let-ins{
     display: inline-block;
     background: #ff8c00;
     color: #001219;
-    height: -3px;
+    height: px;
     padding: 1rem 1rem;
     border: #ff8c00;
     cursor: pointer;
-    font-style: bold;
+    font-weight: bold;
     text-decoration: none;
 }
 .home {
@@ -80,7 +87,7 @@ header .navigation .let-ins{
     font-size: 4.5rem;
     color: #ff8c00;
     text-transform: uppercase;
-    text-shadow: 0 .3rem .5rem rgba(0,0,0,.7);
+    text-shadow: 0 .3rem .5rem rgba(236, 228, 228, 0.7);
 }
 .home .content p{
     font-size: 2.5rem;
