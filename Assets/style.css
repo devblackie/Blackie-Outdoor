@@ -86,3 +86,11 @@ header .navigation .let-ins{
     color: #fff;
     padding: 5rem 0;
 }
+.home .video-container video{
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
