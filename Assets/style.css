@@ -75,4 +75,9 @@ header .navigation .let-ins{
 .home .content{
     text-align: center;
 }
-.home .content 
+.home .content h3{
+    font-size: 4.5rem;
+    color: #ff8c00;
+    text-transform: uppercase;
+    text-shadow: 0 .3rem .5rem rgba(0,0,0,.1);
+}
