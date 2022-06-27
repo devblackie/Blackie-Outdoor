@@ -49,3 +49,17 @@ header .navigation .let-ins{
     font-size: 2rem;
     padding: 20px;
 }
+/* btn styling */
+.btn:hover{
+    color: white;
+}
+.btn{
+    display: inline-block;
+    background: #ff8c00;
+    color: #001219;
+    padding: 1rem 1rem;
+    border: #ff8c00;
+    cursor: pointer;
+    font-style: bold;
+    text-decoration: none;
+}
