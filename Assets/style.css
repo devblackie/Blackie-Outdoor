@@ -72,3 +72,7 @@ header .navigation .let-ins{
     position: relative;
     z-index: 0;
 }
+.home .content{
+    text-align: center;
+}
+.home .content 
